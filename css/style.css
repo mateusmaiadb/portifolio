@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+
+}
+
+body {
+    background-image: url("/assets/quinton-coetzee-gpa8Y_Fk7Rg-unsplash.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+div img{
+    padding: 5px;
+    border-radius: 150px;
+}
+
+h1{
+    padding: 30px;
+    color: #333333;
+}
+
+p{
+    color: #807878;
+    margin: 2px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+.third{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    border-radius: 5px;
+    border-color: #3498db;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+}
+
+.third:hover{
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
