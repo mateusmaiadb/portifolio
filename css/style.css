@@ -5,7 +5,7 @@
 
 body {
     background-image: url("/assets/quinton-coetzee-gpa8Y_Fk7Rg-unsplash.jpg");
-    background-size: cover;
+    background-size: auto;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
